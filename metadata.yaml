@@ -1,10 +1,16 @@
 _repo: Ljocht-en-Skaed-In-mennich-biskAgings_46459
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kalma, Douwe
     gutenberg_agent_id: '43803'
     url: http://www.gutenberg.org/2009/agents/43803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46459#Ljocht-en-Skaed-In-mennich-biskAgings
 gutenberg_issued: '2014-07-31'
 gutenberg_type: Text
 identifiers:
